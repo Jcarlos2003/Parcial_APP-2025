@@ -27,3 +27,4 @@ Las capturas de pantalla se encuentran en esta misma carpeta llamada **"Parcial1
    - Al ejecutar la aplicación, se abrirá la pantalla de login. Para ingresar, utiliza el siguiente correo y contraseña:
      - **Correo:** usuario@ejemplo.com
      - **Contraseña:** 1234
+     - Otra cosa a tener en cuenta es que no se pueden meter valores muy altos ejemplo "Salario" porque no logre hacer que funcionara pero si valores como 500 dolares, se podria decir que funcionaria.
