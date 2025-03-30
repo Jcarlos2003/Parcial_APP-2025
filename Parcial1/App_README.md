@@ -22,3 +22,8 @@ Las capturas de pantalla se encuentran en esta misma carpeta llamada **"Parcial1
 
 4. **Verificar dependencias**:
    - Las librerías y componentes ya están incluidos en el proyecto. Solo asegúrate de que se descarguen correctamente y que el proyecto se ejecute sin ningún problema.
+     
+5. **Acceder a la aplicación**:
+   - Al ejecutar la aplicación, se abrirá la pantalla de login. Para ingresar, utiliza el siguiente correo y contraseña:
+     - **Correo:** usuario@ejemplo.com
+     - **Contraseña:** 1234
